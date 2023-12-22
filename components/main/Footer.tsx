@@ -49,7 +49,7 @@ const Footer = () => {
                 </div>
             </div>
 
-            <div className="mb-[20px] mt-10 text-[20px] text-center opacity-60 mt-4">
+            <div className="mb-[20px] text-[20px] text-center opacity-60 mt-4">
                 &copy;vedas_dixit All rights reserved
             </div>
         </div>
