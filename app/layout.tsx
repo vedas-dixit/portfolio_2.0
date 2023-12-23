@@ -20,7 +20,7 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body
-        className={`${inter.className} bg-[#9e9e9e] overflow-y-scroll overflow-x-hidden`}
+        className={`${inter.className} bg-[#0b0b0c] overflow-y-scroll overflow-x-hidden`}
       >
         <StarsCanvas />
         <Navbar />

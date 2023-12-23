@@ -66,7 +66,7 @@ export default function Encryption() {
           />
       </div>
       <div className={styles.title}>
-      <span className="text-transparent text-6xl bg-clip-text bg-gradient-to-r from-teal-800 to-slate-500" >Wildlife Photography</span>
+      <span className="text-transparent font-bold text-6xl  bg-clip-text bg-gradient-to-r from-teal-800 to-slate-500" >Wildlife Photography</span>
         <p className='text-3xl'>HOBBY</p>
       </div>
     </main>
